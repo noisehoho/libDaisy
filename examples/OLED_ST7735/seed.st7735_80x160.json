@@ -1,0 +1,15 @@
+{
+  "name": "seed.st7735_80x160",
+  "display": {
+    "width": 80,
+    "height": 160,
+    "driver": "ST7735_4WireSpi80x160Driver"
+  },
+  "pins": {
+    "sck": "D8",
+    "mosi": "D10",
+    "dc": "D9",
+    "cs": "D7",
+    "rst": "D30"
+  }
+}
